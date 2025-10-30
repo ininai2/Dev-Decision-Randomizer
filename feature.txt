@@ -1,0 +1,2 @@
+# Daily Notes
+Verify correct behavior of authentication middleware
